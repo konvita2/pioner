@@ -1,0 +1,763 @@
+<?xml version="1.0"?>
+<Root Database="D:\WORK\spectr\ascen\izd.dbf">
+  <Structure>
+Numeric     <Field_Type>Numeric</Field_Type>
+     <Field_Len>10</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+Date     <Field_Type>Date</Field_Type>
+     <Field_Len>8</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+Date     <Field_Type>Date</Field_Type>
+     <Field_Len>8</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+Numeric     <Field_Type>Numeric</Field_Type>
+     <Field_Len>5</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+Character     <Field_Type>Character</Field_Type>
+     <Field_Len>40</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+Character     <Field_Type>Character</Field_Type>
+     <Field_Len>20</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+Character     <Field_Type>Character</Field_Type>
+     <Field_Len>8</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+Numeric     <Field_Type>Numeric</Field_Type>
+     <Field_Len>5</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+Numeric     <Field_Type>Numeric</Field_Type>
+     <Field_Len>5</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+Numeric     <Field_Type>Numeric</Field_Type>
+     <Field_Len>12</Field_Len>
+     <Field_Dec>2</Field_Dec>
+    </Field>
+Numeric     <Field_Type>Numeric</Field_Type>
+     <Field_Len>4</Field_Len>
+     <Field_Dec>0</Field_Dec>
+    </Field>
+  </Structure>
+  <Records>
+   <Record>
+     <Field_ID>0</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>140</Field_KOD>
+     <Field_IM>Ремонт и обслуживание оборудования</Field_IM>
+     <Field_RIBF>РЕМ-01</Field_RIBF>
+     <Field_SHWZ>РЕМобор1</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>2</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>153</Field_KOD>
+     <Field_IM>Блок дверной мет. противопожарный</Field_IM>
+     <Field_RIBF>БДМП 226.000.00 СБ</Field_RIBF>
+     <Field_SHWZ>БДМП.226</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>3</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>163</Field_KOD>
+     <Field_IM>Погрузочно-разгрузочные работы</Field_IM>
+     <Field_RIBF>Погр-Разгр. работы</Field_RIBF>
+     <Field_SHWZ>ПЗРаботы</Field_SHWZ>
+     <Field_PARTZ1>0</Field_PARTZ1>
+     <Field_PARTZ2>0</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>4</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>201</Field_KOD>
+     <Field_IM>МЕТ.ПЛАСТИКОВЫЕ ОКНА</Field_IM>
+     <Field_RIBF>МПО-1</Field_RIBF>
+     <Field_SHWZ>МПО-1</Field_SHWZ>
+     <Field_PARTZ1>0</Field_PARTZ1>
+     <Field_PARTZ2>0</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>5</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>205</Field_KOD>
+     <Field_IM>ЗАМОК</Field_IM>
+     <Field_RIBF>ТИЗ.63-10-10 СБ</Field_RIBF>
+     <Field_SHWZ>замок</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1000</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>6</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>210</Field_KOD>
+     <Field_IM>Опорная конструкция</Field_IM>
+     <Field_RIBF>СТИ.230-50-00 СБ</Field_RIBF>
+     <Field_SHWZ>Опор бл4</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>3</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>7</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>138</Field_KOD>
+     <Field_IM>Инсистекс</Field_IM>
+     <Field_RIBF>ИН-01</Field_RIBF>
+     <Field_SHWZ>1</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>8</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>218</Field_KOD>
+     <Field_IM>Кожух т\изоляции цил. части компенс. объ</Field_IM>
+     <Field_RIBF>СКИ.221-03-000 СБ</Field_RIBF>
+     <Field_SHWZ>Кож\цил</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>9</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>222</Field_KOD>
+     <Field_IM>Т\изоляция верхней части компенс. объема</Field_IM>
+     <Field_RIBF>СТИ.221-04-000 СБ</Field_RIBF>
+     <Field_SHWZ>изолВЧКО</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>10</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>225</Field_KOD>
+     <Field_IM>РАЗОВЫЕ ЗАКАЗЫ ДЕТАЛЕЙ</Field_IM>
+     <Field_RIBF>РАЗОВЫЕ ЗАКАЗЫ</Field_RIBF>
+     <Field_SHWZ>РАЗ.ЗАК.</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>11</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>228</Field_KOD>
+     <Field_IM>Постельные комплекты</Field_IM>
+     <Field_RIBF>ПК-1</Field_RIBF>
+     <Field_SHWZ>ПК-1</Field_SHWZ>
+     <Field_PARTZ1>0</Field_PARTZ1>
+     <Field_PARTZ2>0</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>12</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>232</Field_KOD>
+     <Field_IM>Заготовки Андрею на двери</Field_IM>
+     <Field_RIBF>Заг.Анд.</Field_RIBF>
+     <Field_SHWZ>ЗАГ-А</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>13</Field_ID>
+     <Field_DATA_Z>01.01.2006</Field_DATA_Z>
+     <Field_DATA_P>01.01.2006</Field_DATA_P>
+     <Field_KOD>234</Field_KOD>
+     <Field_IM>Кожух изоляции коллектора выхода пара</Field_IM>
+     <Field_RIBF>СКИ.172-04-00-00 СБ</Field_RIBF>
+     <Field_SHWZ>Кож-паук</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>14</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>239</Field_KOD>
+     <Field_IM>Услуги по противопожарным покрытиям</Field_IM>
+     <Field_RIBF>УПП-1</Field_RIBF>
+     <Field_SHWZ>УСЛУГИ П</Field_SHWZ>
+     <Field_PARTZ1>0</Field_PARTZ1>
+     <Field_PARTZ2>0</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>15</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>240</Field_KOD>
+     <Field_IM>Теплоиз.коллект. вых.пара РАЭС№4-ПГ-2</Field_IM>
+     <Field_RIBF>СТИ.172-04-000 СБ</Field_RIBF>
+     <Field_SHWZ>ПГ-2 М\Ч</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>16</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>242</Field_KOD>
+     <Field_IM>ШТАМП ПРОБИВКИ</Field_IM>
+     <Field_RIBF>1544-5045</Field_RIBF>
+     <Field_SHWZ>1544 ШП</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>17</Field_ID>
+     <Field_DATA_Z>01.10.2005</Field_DATA_Z>
+     <Field_DATA_P>30.10.2005</Field_DATA_P>
+     <Field_KOD>29</Field_KOD>
+     <Field_IM>УПАКОВКА дверей противопожарных</Field_IM>
+     <Field_RIBF>УПД 13.00.00</Field_RIBF>
+     <Field_SHWZ>УПА</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>3</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>18</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>243</Field_KOD>
+     <Field_IM>Смеситель пенобетона</Field_IM>
+     <Field_RIBF>ПБН-03.00.00.00 СБ</Field_RIBF>
+     <Field_SHWZ>П\бетон</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>19</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>244</Field_KOD>
+     <Field_IM>ПРОТИВОПОЖАРНЫЕ ПОКРЫТИЯ</Field_IM>
+     <Field_RIBF>ПОКРЫТИЯ</Field_RIBF>
+     <Field_SHWZ>ПОКР-2</Field_SHWZ>
+     <Field_PARTZ1>0</Field_PARTZ1>
+     <Field_PARTZ2>0</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>20</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>20</Field_KOD>
+     <Field_IM>двери(900х2000) РАЭС-1шт</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-20</Field_RIBF>
+     <Field_SHWZ>Ровно</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>21</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>21</Field_KOD>
+     <Field_IM>Двери (980х2000) РАЭС-2шт</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-21</Field_RIBF>
+     <Field_SHWZ>РАЭС-2шт</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>22</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>22</Field_KOD>
+     <Field_IM>Двери (980х2280) РАЭС-4шт</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-22</Field_RIBF>
+     <Field_SHWZ>РАЭС-4шт</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>4</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>23</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>23</Field_KOD>
+     <Field_IM>Двери (960х1980) РАЭС-1шт</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-23</Field_RIBF>
+     <Field_SHWZ>раэс-1 ш</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>24</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>24</Field_KOD>
+     <Field_IM>Двери (890х1880) РАЭС-1шт</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-24</Field_RIBF>
+     <Field_SHWZ>РАЭС-1ш/</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>25</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>245</Field_KOD>
+     <Field_IM>Двери прот. (0.5 час.стойкос. 2000Х750)</Field_IM>
+     <Field_RIBF>БДМП 227-00.00 СБ</Field_RIBF>
+     <Field_SHWZ>0.5</Field_SHWZ>
+     <Field_PARTZ1>0</Field_PARTZ1>
+     <Field_PARTZ2>0</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>26</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>172</Field_KOD>
+     <Field_IM>Опорная конструкция РАЭС, бл4</Field_IM>
+     <Field_RIBF>СТИ.221-01-000</Field_RIBF>
+     <Field_SHWZ>СТИ-опор</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>27</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>25</Field_KOD>
+     <Field_IM>Двери (950х2020) РАЭС-2шт-Л</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-25</Field_RIBF>
+     <Field_SHWZ>РАЭ-2Л</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>28</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>26</Field_KOD>
+     <Field_IM>Двери (950х1920)-РАЭС-1шт-Л</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-26</Field_RIBF>
+     <Field_SHWZ>РАЭ-1Л</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>29</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>27</Field_KOD>
+     <Field_IM>Двери (1000х1950) РАЭС-1шт-Л</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-27</Field_RIBF>
+     <Field_SHWZ>РА-1шт Л</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>30</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>28</Field_KOD>
+     <Field_IM>Двери (670х2060)-1шт-Аптека</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-28</Field_RIBF>
+     <Field_SHWZ>Апте-1шт</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>31</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>30</Field_KOD>
+     <Field_IM>Двери выставочные (900х2020)</Field_IM>
+     <Field_RIBF>ДП 0.75.03.00.00-30</Field_RIBF>
+     <Field_SHWZ>Дв-выст</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>32</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>246</Field_KOD>
+     <Field_IM>ТЕПЛОИЗ.ГЛАВН. ЦИРКУЛЯЦ.НАСОСА (УЛИТКА)</Field_IM>
+     <Field_RIBF>СТИ.230-10-00 СБ</Field_RIBF>
+     <Field_SHWZ>УЛИТКА-М</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>4</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>33</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>250</Field_KOD>
+     <Field_IM>Кожух т\изол. гл. циркуляц. насоса</Field_IM>
+     <Field_RIBF>СКИ.230-30-00 СБ</Field_RIBF>
+     <Field_SHWZ>УЛИТКА-Ж</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>4</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>34</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>31</Field_KOD>
+     <Field_IM>Двери входные (960х2040)</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00-31</Field_RIBF>
+     <Field_SHWZ>Дв-входн</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>35</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>248</Field_KOD>
+     <Field_IM>Кожух т\изол. гл. циркул. насоса</Field_IM>
+     <Field_RIBF>СКИ.230-30-00</Field_RIBF>
+     <Field_SHWZ>СКИ-улит</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>36</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>249</Field_KOD>
+     <Field_IM>Дефлектор</Field_IM>
+     <Field_RIBF>СТО 305-00.000 СБ</Field_RIBF>
+     <Field_SHWZ>Дефлекто</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>5</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>20</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>20</Field_KOD>
+     <Field_IM>двери(900х2000) РАЭС-1шт</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-20</Field_RIBF>
+     <Field_SHWZ>Ровно</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>21</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>21</Field_KOD>
+     <Field_IM>Двери (980х2000) РАЭС-2шт</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-21</Field_RIBF>
+     <Field_SHWZ>РАЭС-2шт</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>24</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>24</Field_KOD>
+     <Field_IM>Двери (890х1880) РАЭС-1шт</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-24</Field_RIBF>
+     <Field_SHWZ>РАЭС-1ш/</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>17</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>29</Field_KOD>
+     <Field_IM>УПАКОВКА дверей противопожарных</Field_IM>
+     <Field_RIBF>УПД 13.00.00</Field_RIBF>
+     <Field_SHWZ>УПА</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>3</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>37</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>251</Field_KOD>
+     <Field_IM>ДОРАБОТКА И РЕМОНТ ХАЭС</Field_IM>
+     <Field_RIBF>ДОР-1</Field_RIBF>
+     <Field_SHWZ>ДОР-ХАЭС</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>38</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>32</Field_KOD>
+     <Field_IM>ДВЕРИ ВЫСТАВОЧНЫЕ 2100Х910</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-32</Field_RIBF>
+     <Field_SHWZ>ВЫСТ.2</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>39</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>33</Field_KOD>
+     <Field_IM>ДВЕРИ СОБСТВ.НУЖДЫ 2100Х910</Field_IM>
+     <Field_RIBF>ДБП 0.75.03.00.00-33</Field_RIBF>
+     <Field_SHWZ>СОБСТВ.</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>40</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>34</Field_KOD>
+     <Field_IM>ДВЕРИ ДВОЙНЫЕ 2400Х1890 БИСКВИТКА</Field_IM>
+     <Field_RIBF>БДМП 226.000.00 34</Field_RIBF>
+     <Field_SHWZ>БИ-2</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>45</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>22</Field_KOD>
+     <Field_IM>Двери противопожарные</Field_IM>
+     <Field_RIBF>ДП 1.5.02.00.00-01</Field_RIBF>
+     <Field_SHWZ>Дп 1,5</Field_SHWZ>
+     <Field_PARTZ1>2</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>46</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>9</Field_KOD>
+     <Field_IM>ДВЕРИ ПРОТИВОПОЖАРНЫЕ</Field_IM>
+     <Field_RIBF>ДП 1.5.02.00.00-06</Field_RIBF>
+     <Field_SHWZ></Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>47</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>182</Field_KOD>
+     <Field_IM>Ворота уч-ка изготовления окон</Field_IM>
+     <Field_RIBF>1-В</Field_RIBF>
+     <Field_SHWZ>1-В</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>48</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>25</Field_KOD>
+     <Field_IM>Двери противопожарные</Field_IM>
+     <Field_RIBF>ДП 0.75.03.00.00-01</Field_RIBF>
+     <Field_SHWZ>Испытан.</Field_SHWZ>
+     <Field_PARTZ1>0</Field_PARTZ1>
+     <Field_PARTZ2>0</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>49</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>176</Field_KOD>
+     <Field_IM>Двери противопожарные</Field_IM>
+     <Field_RIBF>ДП 0,75-03-00-00</Field_RIBF>
+     <Field_SHWZ>Бисквит</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>2</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>50</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>0</Field_KOD>
+     <Field_IM>СТРОИТЕЛЬНЫЕ РАБОТЫ</Field_IM>
+     <Field_RIBF>СТРОЙКА</Field_RIBF>
+     <Field_SHWZ>СТРОЙКА</Field_SHWZ>
+     <Field_PARTZ1>0</Field_PARTZ1>
+     <Field_PARTZ2>0</Field_PARTZ2>
+     <Field_CENA></Field_CENA>
+     <Field_GP></Field_GP>
+
+   </Record>
+   <Record>
+     <Field_ID>51</Field_ID>
+     <Field_DATA_Z>.  .</Field_DATA_Z>
+     <Field_DATA_P>.  .</Field_DATA_P>
+     <Field_KOD>252</Field_KOD>
+     <Field_IM>ДВЕРИ ОТДЕЛА КАДРОВ</Field_IM>
+     <Field_RIBF>ДВЕРИ КАДРОВ</Field_RIBF>
+     <Field_SHWZ>ДВ-КАД</Field_SHWZ>
+     <Field_PARTZ1>1</Field_PARTZ1>
+     <Field_PARTZ2>1</Field_PARTZ2>
+     <Field_CENA>0.00</Field_CENA>
+     <Field_GP>0</Field_GP>
+
+   </Record>

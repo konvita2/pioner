@@ -1,0 +1,39 @@
+
+SVI.DBF
+    1 NPP      C  3
+    2 KORND    C  7
+    3 POZND    C 20
+    4 POZNW    C 20
+    5 NAIMD    C 35
+    6 KOL      C  3
+    7 KOLI     C  4
+    8 WAG      C 10
+    9 M_KD     C 40
+   10 M_TD     C 40
+   11 NPP1     C  3
+   12 DMM      C  6
+   13 TMM      C  8
+   14 L        C  6
+   15 S        C  6
+   16 LGR      C  5
+   17 KOLZ     C  5
+   18 EI       C  5
+   19 NRMD_    C 10
+   20 KWM      C  4
+   21 POKR     C  7
+   22 PLOPOK   C  7
+   23 MAR1     C  3
+   24 MAR2     C  3
+   25 MAR3     C  3
+   26 MAR4     C  3
+   27 MAR5     C  3
+   28 MAR6     C  3
+   29 MAR7     C  3
+   30 MAR8     C  3
+   31 MAR9     C  3
+   32 MAR10    C  3
+   33 INORMW   C  6
+   34 CENAM    C  6
+   35 CENAMD   C  6
+   36 CENAD    C  6
+                309

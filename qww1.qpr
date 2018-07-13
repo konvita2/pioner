@@ -1,0 +1,2 @@
+SELECT Ww.invn, Ww.data_nd, Ww.kolz, Ww.kzp, Ww.invn;
+ FROM db!ww

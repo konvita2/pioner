@@ -1,0 +1,8 @@
+LOCAL nnn
+STORE 0 TO nnn
+SELECT table1
+SCAN
+	nnn=nnn+1
+	REPLACE rn WITH nnn 
+ENDSCAN
+RETURN nnn

@@ -1,0 +1,4 @@
+a = createobject()
+Error in line 4: Too few arguments.
+? a.isempty()
+Error in line 6: Syntax error.

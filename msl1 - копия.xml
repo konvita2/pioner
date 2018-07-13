@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+    <Author>vit</Author>
+    <LastAuthor>Admin</LastAuthor>
+    <LastPrinted>2012-07-19T14:07:25Z</LastPrinted>
+    <Created>2007-05-08T06:47:22Z</Created>
+    <LastSaved>2012-07-19T14:23:20Z</LastSaved>
+    <Version>11.5606</Version>
+  </DocumentProperties>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+    <WindowHeight>11640</WindowHeight>
+    <WindowWidth>15480</WindowWidth>
+    <WindowTopX>600</WindowTopX>
+    <WindowTopY>120</WindowTopY>
+    <RefModeR1C1/>
+    <ProtectStructure>False</ProtectStructure>
+    <ProtectWindows>False</ProtectWindows>
+  </ExcelWorkbook>
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Alignment ss:Vertical="Bottom"/>
+      <Borders/>
+      <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+      <Interior/>
+      <NumberFormat/>
+      <Protection/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="20" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s25">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Font ss:FontName="CCode39" ss:Size="16"/>
+    </Style>
+    <Style ss:ID="s29">
+      <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="16" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s30">
+      <Alignment ss:Vertical="Top"/>
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+    </Style>
+    <Style ss:ID="s31">
+      <Alignment ss:Vertical="Top"/>
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="16" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s32">
+      <Alignment ss:Vertical="Top"/>
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="18" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s37">
+      <Alignment ss:Vertical="Top"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+    </Style>
+    <Style ss:ID="s38">
+      <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+    </Style>
+    <Style ss:ID="s39">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+    </Style>
+    <Style ss:ID="s41">
+      <Font ss:FontName="Barcode" x:CharSet="204" ss:Size="24"/>
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Лист1">
+    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+      <PageSetup>
+        <Layout x:Orientation="Landscape"/>
+        <Header x:Margin="0.28"/>
+        <Footer x:Margin="0.26"/>
+        <PageMargins x:Bottom="0.33" x:Left="0.4" x:Right="0.23" x:Top="0.33"/>
+      </PageSetup>
+      <Print>
+        <ValidPrinterInfo/>
+        <PaperSizeIndex>9</PaperSizeIndex>
+        <HorizontalResolution>120</HorizontalResolution>
+        <VerticalResolution>144</VerticalResolution>
+      </Print>
+      <Selected/>
+      <TopRowVisible>3</TopRowVisible>
+      <Panes>
+        <Pane>
+          <Number>3</Number>
+          <ActiveRow>7</ActiveRow>
+          <ActiveCol>6</ActiveCol>
+        </Pane>
+      </Panes>
+      <ProtectObjects>False</ProtectObjects>
+      <ProtectScenarios>False</ProtectScenarios>
+    </WorksheetOptions>
+    <PageBreaks xmlns="urn:schemas-microsoft-com:office:excel">
+      <RowBreaks>
+        <RowBreak>
+          <Row>15</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>31</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>45</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>61</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>76</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>91</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>106</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>120</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>135</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>149</Row>
+        </RowBreak>
+        <RowBreak>
+          <Row>163</Row>
+        </RowBreak>
+      </RowBreaks>
+    </PageBreaks>
+    <Table ss:ExpandedColumnCount="256" ss:ExpandedRowCount="170" x:FullColumns="1" x:FullRows="1" ss:StyleID="s21" ss:DefaultRowHeight="20.25">
+      <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="87"/>
+      <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="51"/>
+      <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="120.75"/>
+      <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="66.75"/>
+      <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="67.5"/>
+      <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="98.25"/>
+      <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="207.75"/>
+      <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="108.75" ss:Span="248"/>
+      <Row ss:Height="26.25">
+        <Cell ss:StyleID="s23">
+          <Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ 19/07/2012</Data>
+        </Cell>
+      </Row>
+
+      <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+        <Cell>
+          <Data ss:Type="String">Код заказа</Data>
+        </Cell>
+        <Cell ss:StyleID="s31">
+          <Data ss:Type="String">001.920.000.044.12  </Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">Примечание </Data>
+        </Cell>
+      </Row>
+
+    </Table>
+  </Worksheet>
+</Workbook>

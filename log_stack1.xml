@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<VFPCallStackLog-log.txt><f_kt_vib_sql.sct-f.mfill StackLevel="3" RunsFor="0.015632" TimesCalled="1"><waitproc.fxp-waitproc StackLevel="4" RunsFor="0.169101" TimesCalled="857"/><get_mater.fxp-get_mater StackLevel="4" RunsFor="6.867660" TimesCalled="569"/></f_kt_vib_sql.sct-f.mfill></VFPCallStackLog-log.txt>

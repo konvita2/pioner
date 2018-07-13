@@ -1,0 +1,1304 @@
+<?xml version="1.0"?>
+<!-- <?mso-application progid="Excel.Sheet"?> -->
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>vit</Author>
+  <LastAuthor>Admin</LastAuthor>
+  <LastPrinted>2012-07-19T14:07:25Z</LastPrinted>
+  <Created>2007-05-08T06:47:22Z</Created>
+  <LastSaved>2012-07-19T14:23:20Z</LastSaved>
+  <Version>11.5606</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11640</WindowHeight>
+  <WindowWidth>15480</WindowWidth>
+  <WindowTopX>600</WindowTopX>
+  <WindowTopY>120</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="20"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="CCode39" ss:Size="16"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="16" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="16" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="18" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s37">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+  </Style>
+  <Style ss:ID="s38">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+  </Style>
+  <Style ss:ID="s39">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" x:Family="Swiss" ss:Size="16"/>
+  </Style>
+  <Style ss:ID="s41">
+   <Font ss:FontName="Barcode" x:CharSet="204" ss:Size="24"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="256" ss:ExpandedRowCount="177" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s21" ss:DefaultRowHeight="20.25">
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="87"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="51"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="120.75"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="66.75"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="67.5"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="98.25"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="207.75"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="108.75" ss:Span="248"/>
+   
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №15.0 от 19/07/2012</Data></Cell>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание </Data></Cell>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 64.01.070.000 СБ Стакан</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755160</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">                                        </Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="Number">755160</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755161</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755161</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">211</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Токарно-винторезная&#10;755162</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755162</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">&#10;755163</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755163</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1336</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Получение гальванопокрытий&#10;755164</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755164</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+    
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755165</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755165</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   
+   <Row ss:Index="15">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   
+   
+   
+   
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №17.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание Токарная обр.по необходимости;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 62.01.130.000 СБ Ротор</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755174</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Токарная обр.по необходимости           </Data></Cell>
+    <Cell><Data ss:Type="Number">755174</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755175</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755175</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">211</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Токарно-винторезная&#10;755176</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755176</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">218</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Круглошлифовальная&#10;755177</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755177</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">&#10;755178</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755178</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1336</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Получение гальванопокрытий&#10;755179</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755179</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755180</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755180</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="31">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №18.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание пор.мет.;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 64.02.000.000 СБ Каркас</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755192</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">                                        </Data></Cell>
+    <Cell><Data ss:Type="Number">755192</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9253</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Разметка, сверловка, зачистка&#10;755193</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755193</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755194</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755194</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5235</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755195</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755195</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755196</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755196</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="45">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №21.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание пор.мет.;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 64.07.000.000 СБ Кронштейн</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755443</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">                                        </Data></Cell>
+    <Cell><Data ss:Type="Number">755443</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755444</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755444</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">214</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Вертикально-фрезерная&#10;755445</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755445</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9253</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Разметка, сверловка, зачистка&#10;755446</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755446</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755447</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755447</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5235</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755448</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755448</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755449</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755449</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="61">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №22.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 64.10.000.000 СБ Стойка</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755462</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">                                        </Data></Cell>
+    <Cell><Data ss:Type="Number">755462</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755463</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755463</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9253</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Разметка, сверловка, зачистка&#10;755464</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755464</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755465</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755465</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5235</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755466</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755466</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755467</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755467</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="76">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №23.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 64.11.000.000 СБ Кожух</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755481</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">                                        </Data></Cell>
+    <Cell><Data ss:Type="Number">755481</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755482</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755482</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9234</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Слесарная рихтовочная&#10;755483</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755483</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755484</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755484</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5235</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755485</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755485</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755486</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755486</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="91">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №3.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание пор.мет.;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 62.01.030.000 СБ Крышка</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755498</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">                                        </Data></Cell>
+    <Cell><Data ss:Type="Number">755498</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755499</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755499</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">211</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Токарно-винторезная&#10;755500</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755500</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755501</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755501</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5235</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755502</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755502</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755503</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755503</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="106">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №4.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 62.01.040.000 СБ Плита подмоторная</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755514</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">присп.цеховое                           </Data></Cell>
+    <Cell><Data ss:Type="Number">755514</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755515</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755515</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755516</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755516</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5435</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755517</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755517</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755518</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755518</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="120">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №5.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание пор.мет.;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 62.01.070.000 СБ Кожух</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755529</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">                                        </Data></Cell>
+    <Cell><Data ss:Type="Number">755529</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755530</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755530</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9234</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Слесарная рихтовочная&#10;755531</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755531</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755532</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755532</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5235</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755533</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755533</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755534</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755534</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="135">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №7.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 64.01.040.000 СБ Стойка</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755555</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">присп.цеховое                           </Data></Cell>
+    <Cell><Data ss:Type="Number">755555</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755556</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755556</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">&#10;755557</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755557</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1336</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Получение гальванопокрытий&#10;755558</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755558</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755559</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755559</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="149">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №8.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание пор.мет.;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 64.01.050.000 СБ Корпус</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755576</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">                                        </Data></Cell>
+    <Cell><Data ss:Type="Number">755576</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755577</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755577</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755578</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755578</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5235</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Окрашивание&#10;755579</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755579</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755580</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755580</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="163">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">МАРШРУТНО-СОПРОВОДИТЕЛЬНЫЙ ЛИСТ №9.0 от 19/07/2012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Код заказа</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">001.920.000.044.12  </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Примечание </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Изделие</Data></Cell>
+    <Cell><Data ss:Type="String">ТКМ 64.00.000.000з-н 044 СБ Дозатор весовой автоматический ДВУ-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Деталь</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s29"><Data ss:Type="String">ТКМ 64.01.060.000 СБ Поводок</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Р-р </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375" ss:StyleID="s30">
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s32"><Data ss:Type="String">Кол из заг: 0</Data></Cell>
+   </Row>
+   <Row ss:Height="40.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Расце-ховка</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">№ оп.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вид операции / Код</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во план.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Кол-во прин.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Контролер ОТК</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штрихкод</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9250</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборочная подготовительная&#10;755617</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">                                        </Data></Cell>
+    <Cell><Data ss:Type="Number">755617</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9239</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сварка&#10;755618</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755618</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">&#10;755619</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755619</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1336</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Получение гальванопокрытий&#10;755620</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755620</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.9375">
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">9240</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Сборка.упаковка согласно КД&#10;755621</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell><Data ss:Type="Number">755621</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:Index="177">
+    <Cell><Data ss:Type="String">Инженер ПДО ________________</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.28"/>
+    <Footer x:Margin="0.26"/>
+    <PageMargins x:Bottom="0.33" x:Left="0.4" x:Right="0.23" x:Top="0.33"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>120</HorizontalResolution>
+    <VerticalResolution>144</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>3</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <PageBreaks xmlns="urn:schemas-microsoft-com:office:excel">
+   <RowBreaks>
+    <RowBreak>
+     <Row>15</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>31</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>45</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>61</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>76</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>91</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>106</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>120</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>135</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>149</Row>
+    </RowBreak>
+    <RowBreak>
+     <Row>163</Row>
+    </RowBreak>
+   </RowBreaks>
+  </PageBreaks>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист3">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

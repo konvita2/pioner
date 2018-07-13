@@ -1,0 +1,1 @@
+wait window nowait 'debug test'

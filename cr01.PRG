@@ -1,0 +1,1 @@
+create table dogizd (id n(9), im c(80), ribf c(30), kol n(9), cena n(15,2), dogid n(9), datv d)

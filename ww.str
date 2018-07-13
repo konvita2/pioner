@@ -1,0 +1,48 @@
+D:\WORK\VITALY\ROTOR\WW_.DBF
+    1 KOD     Numeric     10
+    2 KORNW   Character    7
+    3 POZNW   Character   20
+    4 KOL     Numeric      4
+    5 POZND   Character   20
+    6 KORND   Character    7
+    7 KODM    Numeric      4
+    8 ROZMA   Numeric      6 1
+    9 ROZMB   Numeric      6 1
+   10 KOLZ    Numeric      3 1
+   11 MAR     Numeric      4
+   12 KTTP    Character   14
+   13 KODO    Character   12
+   14 INVN    Character    7
+   15 KTO     Numeric      5
+   16 KODP    Numeric      4
+   17 KZP     Numeric      5
+   18 RR      Numeric      1
+   19 NORMW   Numeric      9 3
+   20 TPZ     Numeric      9 3
+   21 OPER    Character   12
+   22 KZOP    Numeric      5
+   23 KZONOP  Numeric      3
+   24 SHW     Numeric      6
+   25 SHWZ    Character    8
+   26 NRMD    Numeric     10 5
+   27 MZ      Numeric     10 5
+   28 SETKA   Numeric      2
+   29 WN      Numeric      1
+   30 SHBR    Numeric      1
+   31 WAG     Numeric     10 5
+   32 KRNO    Numeric      1
+   33 NTO     Numeric      4
+   34 PRI     Numeric      1
+   35 KOLI    Numeric      4
+   36 VB      Numeric      2
+   37 PROC    Numeric      3
+   38 DATA_N  Numeric      2
+   39 DATA_O  Numeric      2
+   40 VN      Numeric      5 2
+   41 VO      Numeric      5 2
+   42 DATA_ND Numeric      2
+   43 DATA_OD Numeric      2
+   44 VND     Numeric      5 2
+   45 VOD     Numeric      5 2
+   46 ZO      Numeric      1
+** Total **              270

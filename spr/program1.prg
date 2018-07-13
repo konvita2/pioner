@@ -1,0 +1,7 @@
+*	SELECT izd
+*	n=0
+*	SCAN 
+*		n=n+1
+*		REPLACE nozap WITH n
+*	ENDSCAN 
+SET SYSMENU TO DEFAULT  

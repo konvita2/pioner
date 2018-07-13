@@ -1,0 +1,2 @@
+rrr = sqlexec(hhh,'exec my_add_wwlim ?m.mdat,?m.mshwz,?m.mpoznd,'+ '?m.mkornd,?m.mnaimd,?m.mkodm,?m.mkol,?m.msklad,?m.mvidrab,'+ '?m.mnom,?m.mstroka,?m.mkzp,?@mres'
+Error in line 550: Function name is missing ).

@@ -1,0 +1,6 @@
+*SELECT ww
+n=0
+SCAN 
+	n=n+1
+	REPLACE nozap WITH n
+ENDSCAN
